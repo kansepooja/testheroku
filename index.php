@@ -58,7 +58,7 @@ background-image:url("bg.jpg");
 
 <body>
 <center>
-<h1>Product Management</h1>
+<h1>Pooja Management</h1>
 <br /><br />
 <button class="button"  style="background-color: #62E4CE;"><span> <i class="fa fa-th-list" aria-hidden="true"></i> All Products </span></button>
 <button class="button"  style="background-color: #A489F5;"><span> <i class="fa fa-search" aria-hidden="true"></i>  Search </span></button></br></br>
